@@ -4,7 +4,7 @@ A small todo app build with the React hooks API.
 
 ## Installation
 
-[Live Demo](https://pip.pypa.io/en/stable/)
+[Live Demo](https://to-do-react-list-app.netlify.app/)
 
 
 ## Available Scripts
