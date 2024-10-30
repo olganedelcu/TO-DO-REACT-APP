@@ -23,5 +23,3 @@ You will also see any lint errors in the console.
 ## License
 [MIT](https://github.com/olganedelcu/TO-DO-REACT-APP/blob/main/LICENSE)
 
-## Made thanks to:
-@CodeWithDragos team
